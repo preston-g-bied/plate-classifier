@@ -1,0 +1,9 @@
+image_path,label
+../data/raw/train/cleaned/0004.jpg,cleaned
+../data/raw/train/cleaned/0002.jpg,cleaned
+../data/raw/train/dirty/0019.jpg,dirty
+../data/raw/train/dirty/0001.jpg,dirty
+../data/raw/train/cleaned/0010.jpg,cleaned
+../data/raw/train/dirty/0006.jpg,dirty
+../data/raw/train/cleaned/0015.jpg,cleaned
+../data/raw/train/dirty/0012.jpg,dirty
